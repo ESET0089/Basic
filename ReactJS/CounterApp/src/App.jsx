@@ -16,6 +16,10 @@ function App() {
     document.getElementById('a').innerText=count;
   }
 
+  var x = 5;
+  console.log(x);
+  console.log(x);
+
   return (
     <div>
       <h2 id='a'>0</h2>
