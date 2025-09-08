@@ -36,4 +36,4 @@ EXEC sp_rename 'employees', 'emp';
 EXEC sp_help emp;
 
 -- Drop table
-DROP TABLE employees;
+DROP TABLE employees; 

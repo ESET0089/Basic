@@ -63,5 +63,5 @@ CREATE TABLE teachers (
 );
 
 -- Insert into teachers (must match student.id, otherwise error)
-INSERT INTO teachers VALUES (2, 'science');
+INSERT INTO teachers VALUES (2, 'science'); 
 INSERT INTO teachers VALUES (6, 'maths');   -- will fail (id=6 not in student)

@@ -8,8 +8,8 @@ CREATE TABLE users (
 );
 
 -- Insert sample users
-INSERT INTO users VALUES (1, 'shiva@email.com', 'Shiva');
-INSERT INTO users VALUES (2, 'raj@email.com', 'Raj');
+INSERT INTO users VALUES (5, 'mano@money.com', 'Mano');
+INSERT INTO users VALUES (7, 'namaZ@gmail.com', 'Shreyansh');
 
 -- Create books table
 CREATE TABLE books (
@@ -19,7 +19,9 @@ CREATE TABLE books (
 );
 
 -- Insert sample book
-INSERT INTO books VALUES (13, 'Kaliyug', 300);
+INSERT INTO books VALUES (15, 'Manusmrithi', 50);
+INSERT INTO books VALUES (16, 'How to quit smoking?', 6000);
+INSERT INTO books VALUES (17, 'Bhagwat Gita', 1800);
 
 -- Create orders table with foreign keys
 CREATE TABLE orders (
@@ -28,11 +30,13 @@ CREATE TABLE orders (
     product_id INT,
     FOREIGN KEY(users_id) REFERENCES users(users_id),
     FOREIGN KEY(product_id) REFERENCES books(product_id)
-);
+); 
 
 -- Insert valid orders (product_id must exist in books, users_id must exist in users)
 INSERT INTO orders VALUES (102, 1, 13);
-INSERT INTO orders VALUES (103, 2, 13);
+INSERT INTO orders VALUES (104, 6, 16);
+INSERT INTO orders VALUES (105, 5, 15);
+INSERT INTO orders VALUES (106, 7, 17);
 
 -- Check all tables
 SELECT * FROM books;
@@ -71,3 +75,19 @@ SELECT COUNT(*) AS employee_with_one_lakh FROM Employee WHERE salary = 100000;
 
 -- Order employees by salary (descending)
 SELECT * FROM Employee ORDER BY salary DESC;
+
+
+--------------------------------------------------
+select * from users as A
+select * from orders as B
+select * from books as C
+select * from users A INNER JOIN orders B on A.users_id = B.users_id
+select * from users A FULL OUTER JOIN orders B on A.users_id = B.users_id
+select * from users A LEFT JOIN orders B on A.users_id = B.users_id
+select * from users A RIGHT JOIN orders B on A.users_id = B.users_id
+select * from users A CROSS JOIN orders B
+select * from users A INNER JOIN orders B on A.users_id = B.users_id INNER JOIN books C on B.product_id = C.product_id where C.price =1500
+select * from users A INNER JOIN orders B on A.users_id = B.users_id FULL OUTER JOIN books C on B.product_id = C.product_id where C.price =1500
+select * from users A LEFT JOIN orders B on A.users_id = B.users_id RIGHT JOIN books C on B.product_id = C.product_id where C.price =1500
+
+----------------------------------------------------
