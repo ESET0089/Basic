@@ -11,3 +11,8 @@ select C.title, A.names, C.price from users A inner join orders B on A.users_id 
 -- Find books users have ordered and display book name, user name and price
 select C.title, A.names, C.price from users A inner join orders B on A.users_id = B.users_id inner join books C on B.product_id = C.product_id 
 
+-- Find Total Price of books user has order
+
+
+
+
