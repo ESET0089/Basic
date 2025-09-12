@@ -1,0 +1,15 @@
+D:\Repositories\Basic\DotNet\Class Exercise\Book_Shop_Management\bin\Debug\net8.0\Book_Shop_Management.exe
+D:\Repositories\Basic\DotNet\Class Exercise\Book_Shop_Management\bin\Debug\net8.0\Book_Shop_Management.deps.json
+D:\Repositories\Basic\DotNet\Class Exercise\Book_Shop_Management\bin\Debug\net8.0\Book_Shop_Management.runtimeconfig.json
+D:\Repositories\Basic\DotNet\Class Exercise\Book_Shop_Management\bin\Debug\net8.0\Book_Shop_Management.dll
+D:\Repositories\Basic\DotNet\Class Exercise\Book_Shop_Management\bin\Debug\net8.0\Book_Shop_Management.pdb
+D:\Repositories\Basic\DotNet\Class Exercise\Book_Shop_Management\obj\Debug\net8.0\Book_Shop_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Basic\DotNet\Class Exercise\Book_Shop_Management\obj\Debug\net8.0\Book_Shop_Management.AssemblyInfoInputs.cache
+D:\Repositories\Basic\DotNet\Class Exercise\Book_Shop_Management\obj\Debug\net8.0\Book_Shop_Management.AssemblyInfo.cs
+D:\Repositories\Basic\DotNet\Class Exercise\Book_Shop_Management\obj\Debug\net8.0\Book_Shop_Management.csproj.CoreCompileInputs.cache
+D:\Repositories\Basic\DotNet\Class Exercise\Book_Shop_Management\obj\Debug\net8.0\Book_Shop_Management.sourcelink.json
+D:\Repositories\Basic\DotNet\Class Exercise\Book_Shop_Management\obj\Debug\net8.0\Book_Shop_Management.dll
+D:\Repositories\Basic\DotNet\Class Exercise\Book_Shop_Management\obj\Debug\net8.0\refint\Book_Shop_Management.dll
+D:\Repositories\Basic\DotNet\Class Exercise\Book_Shop_Management\obj\Debug\net8.0\Book_Shop_Management.pdb
+D:\Repositories\Basic\DotNet\Class Exercise\Book_Shop_Management\obj\Debug\net8.0\Book_Shop_Management.genruntimeconfig.cache
+D:\Repositories\Basic\DotNet\Class Exercise\Book_Shop_Management\obj\Debug\net8.0\ref\Book_Shop_Management.dll
