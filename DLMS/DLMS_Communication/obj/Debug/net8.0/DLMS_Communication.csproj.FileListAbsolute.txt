@@ -1,0 +1,15 @@
+D:\Repositories\Basic\DLMS\DLMS_Communication\obj\Debug\net8.0\DLMS_Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Basic\DLMS\DLMS_Communication\obj\Debug\net8.0\DLMS_Communication.AssemblyInfoInputs.cache
+D:\Repositories\Basic\DLMS\DLMS_Communication\obj\Debug\net8.0\DLMS_Communication.AssemblyInfo.cs
+D:\Repositories\Basic\DLMS\DLMS_Communication\obj\Debug\net8.0\DLMS_Communication.csproj.CoreCompileInputs.cache
+D:\Repositories\Basic\DLMS\DLMS_Communication\obj\Debug\net8.0\DLMS_Communication.sourcelink.json
+D:\Repositories\Basic\DLMS\DLMS_Communication\bin\Debug\net8.0\DLMS_Communication.exe
+D:\Repositories\Basic\DLMS\DLMS_Communication\bin\Debug\net8.0\DLMS_Communication.deps.json
+D:\Repositories\Basic\DLMS\DLMS_Communication\bin\Debug\net8.0\DLMS_Communication.runtimeconfig.json
+D:\Repositories\Basic\DLMS\DLMS_Communication\bin\Debug\net8.0\DLMS_Communication.dll
+D:\Repositories\Basic\DLMS\DLMS_Communication\bin\Debug\net8.0\DLMS_Communication.pdb
+D:\Repositories\Basic\DLMS\DLMS_Communication\obj\Debug\net8.0\DLMS_Communication.dll
+D:\Repositories\Basic\DLMS\DLMS_Communication\obj\Debug\net8.0\refint\DLMS_Communication.dll
+D:\Repositories\Basic\DLMS\DLMS_Communication\obj\Debug\net8.0\DLMS_Communication.pdb
+D:\Repositories\Basic\DLMS\DLMS_Communication\obj\Debug\net8.0\DLMS_Communication.genruntimeconfig.cache
+D:\Repositories\Basic\DLMS\DLMS_Communication\obj\Debug\net8.0\ref\DLMS_Communication.dll
