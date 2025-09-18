@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DLMS_Communication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2819ddeec12f53a400ad1d5139b7fcd2166f13f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14addad557044eb485f9cbd358fe1d78b29a8787")]
 [assembly: System.Reflection.AssemblyProductAttribute("DLMS_Communication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DLMS_Communication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
