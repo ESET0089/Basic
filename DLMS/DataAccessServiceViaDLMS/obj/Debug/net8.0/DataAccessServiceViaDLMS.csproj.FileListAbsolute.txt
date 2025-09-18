@@ -1,0 +1,15 @@
+D:\Repositories\Basic\DLMS\DataAccessServiceViaDLMS\bin\Debug\net8.0\DataAccessServiceViaDLMS.exe
+D:\Repositories\Basic\DLMS\DataAccessServiceViaDLMS\bin\Debug\net8.0\DataAccessServiceViaDLMS.deps.json
+D:\Repositories\Basic\DLMS\DataAccessServiceViaDLMS\bin\Debug\net8.0\DataAccessServiceViaDLMS.runtimeconfig.json
+D:\Repositories\Basic\DLMS\DataAccessServiceViaDLMS\bin\Debug\net8.0\DataAccessServiceViaDLMS.dll
+D:\Repositories\Basic\DLMS\DataAccessServiceViaDLMS\bin\Debug\net8.0\DataAccessServiceViaDLMS.pdb
+D:\Repositories\Basic\DLMS\DataAccessServiceViaDLMS\obj\Debug\net8.0\DataAccessServiceViaDLMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Basic\DLMS\DataAccessServiceViaDLMS\obj\Debug\net8.0\DataAccessServiceViaDLMS.AssemblyInfoInputs.cache
+D:\Repositories\Basic\DLMS\DataAccessServiceViaDLMS\obj\Debug\net8.0\DataAccessServiceViaDLMS.AssemblyInfo.cs
+D:\Repositories\Basic\DLMS\DataAccessServiceViaDLMS\obj\Debug\net8.0\DataAccessServiceViaDLMS.csproj.CoreCompileInputs.cache
+D:\Repositories\Basic\DLMS\DataAccessServiceViaDLMS\obj\Debug\net8.0\DataAccessServiceViaDLMS.sourcelink.json
+D:\Repositories\Basic\DLMS\DataAccessServiceViaDLMS\obj\Debug\net8.0\DataAccessServiceViaDLMS.dll
+D:\Repositories\Basic\DLMS\DataAccessServiceViaDLMS\obj\Debug\net8.0\refint\DataAccessServiceViaDLMS.dll
+D:\Repositories\Basic\DLMS\DataAccessServiceViaDLMS\obj\Debug\net8.0\DataAccessServiceViaDLMS.pdb
+D:\Repositories\Basic\DLMS\DataAccessServiceViaDLMS\obj\Debug\net8.0\DataAccessServiceViaDLMS.genruntimeconfig.cache
+D:\Repositories\Basic\DLMS\DataAccessServiceViaDLMS\obj\Debug\net8.0\ref\DataAccessServiceViaDLMS.dll
