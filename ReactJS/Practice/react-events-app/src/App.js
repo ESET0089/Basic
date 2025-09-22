@@ -7,6 +7,8 @@ import ParentComponent from "./components/ParentComponent";
 import UseEffectComponent from "./components/UseEffectComponent";
 import UseRefComponent from "./components/UseRefComponent";
 import UseContextSample from "./components/UseContextSample";
+import UseReducerComponent from "./components/UseReducerComponent";
+import CustomHookComponent from "./components/CustomHookComponent";
 
 const Context = createContext();
 
@@ -27,9 +29,11 @@ function App() {
     {/* <UseRefComponent/> */}
     {/* <ParentComponent/> */}
 
-    <Context.Provider value = {{count,setCount,username,setUsername}}>
+    {/* <Context.Provider value = {{count,setCount,username,setUsername}}>
       <UseContextSample/>
-    </Context.Provider>
+    </Context.Provider> */}
+    {/* <UseReducerComponent/> */}
+    <CustomHookComponent/>
     </>
   );
 } 
