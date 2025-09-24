@@ -21,8 +21,8 @@ const MouseTracker = () => {
   }, []);
 
   return (
-    <div className>
-      <h1 className>Mouse Tracker</h1>
+    <div>
+      <h1>Mouse Tracker</h1>
       <p>
         X: {position.x}, Y: {position.y}
       </p>
