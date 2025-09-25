@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repositories\\Basic\\RabbitMQ\\Producer-Consumer\\Consumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFDDAA2-495B-4452-A155-A812D1819064}|Consumer.csproj|d:\\repositories\\basic\\rabbitmq\\producer-consumer\\consumer\\headerexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFDDAA2-495B-4452-A155-A812D1819064}|Consumer.csproj|solutionrelative:headerexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFDDAA2-495B-4452-A155-A812D1819064}|Consumer.csproj|d:\\repositories\\basic\\rabbitmq\\producer-consumer\\consumer\\fanoutexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFDDAA2-495B-4452-A155-A812D1819064}|Consumer.csproj|solutionrelative:fanoutexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFDDAA2-495B-4452-A155-A812D1819064}|Consumer.csproj|d:\\repositories\\basic\\rabbitmq\\producer-consumer\\consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFDDAA2-495B-4452-A155-A812D1819064}|Consumer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FanoutExchange.cs",
+              "DocumentMoniker": "D:\\Repositories\\Basic\\RabbitMQ\\Producer-Consumer\\Consumer\\FanoutExchange.cs",
+              "RelativeDocumentMoniker": "FanoutExchange.cs",
+              "ToolTip": "D:\\Repositories\\Basic\\RabbitMQ\\Producer-Consumer\\Consumer\\FanoutExchange.cs",
+              "RelativeToolTip": "FanoutExchange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T05:27:57.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeaderExchange.cs",
+              "DocumentMoniker": "D:\\Repositories\\Basic\\RabbitMQ\\Producer-Consumer\\Consumer\\HeaderExchange.cs",
+              "RelativeDocumentMoniker": "HeaderExchange.cs",
+              "ToolTip": "D:\\Repositories\\Basic\\RabbitMQ\\Producer-Consumer\\Consumer\\HeaderExchange.cs",
+              "RelativeToolTip": "HeaderExchange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T05:22:34.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repositories\\Basic\\RabbitMQ\\Producer-Consumer\\Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Repositories\\Basic\\RabbitMQ\\Producer-Consumer\\Consumer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T04:47:20.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
